@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MKZawLin
 - 👀 I’m interested in Machine Learning / AI
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently building on TheSandBox
 - 💞️ I’m looking to collaborate on Electronics and Software applications
 - 📫 How to reach me @ MK_ZawLin@outlook.com for enquiries
 
